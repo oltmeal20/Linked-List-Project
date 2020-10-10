@@ -1,0 +1,8 @@
+Luke Oltmanns
+Linked List Project
+CompSci371
+
+Took the simple linked list example provided for us from class and added two features
+  - Added features:
+      - itemAtPostion()-----> view an item at a certain postion in the linked list
+      - deleteAtPositon()---> delete an item at a certain postion from the linked list
